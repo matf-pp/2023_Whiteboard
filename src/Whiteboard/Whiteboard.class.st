@@ -76,12 +76,13 @@ Whiteboard >> readData: aClient [
 				receivedData ifNotEmpty: [ 
 					parts := receivedData substrings: ' '.
 					parts do: [ :data |
-						parsedData := STON fromString: data .
+						[ parsedData := STON fromString: data .
 						self getCanvas
 						line: (parsedData at: #point1)
 						to: (parsedData at: #point2)
 						width: 5
 						color: (parsedData at: #color).
+						] on: Error do: [ ].
 						morph changed.
 						 ].
 
