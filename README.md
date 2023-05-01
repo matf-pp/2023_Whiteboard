@@ -25,12 +25,12 @@ Pharo vm and image are packaged together.
 You only need to start `launch.sh`/`launch.bat`.
 When closing the app always click `discard` or the app will break and you'll need to redownload.
 
-#Using
+# Using
 
 You need to start the server even if you want to draw locally. After starting you can create multiple local canvases that are all in sync.
 If you want someone to connect you'll need to port forward or something like ngrok to tunnel tcp. Default port is `12345`. 
 For connecting to remote canvas you dont need to start the server.
-##TODO (add pictures and videos of app)
+## TODO (add pictures and videos of app)
 
 #Contributors
 
