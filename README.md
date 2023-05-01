@@ -32,7 +32,7 @@ If you want someone to connect you'll need to port forward or something like ngr
 For connecting to remote canvas you dont need to start the server.
 ## TODO (add pictures and videos of app)
 
-#Contributors
+# Contributors
 
 This app was made by [Igor Kandic](https://github.com/igorkandic) and [Nenad Dobrosavljevic](https://github.com/dobrosavljevic01)
 
