@@ -35,4 +35,3 @@ For connecting to remote canvas you dont need to start the server.
 ## Contributors
 
 This app was made by [Igor Kandic](https://github.com/igorkandic) and [Nenad Dobrosavljevic](https://github.com/dobrosavljevic01)
-
