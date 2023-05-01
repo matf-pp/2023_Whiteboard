@@ -21,6 +21,7 @@ To start the menu type `Main new show.` in playground.
 
 ## Prebuilt
 
+Download [here](/releases).
 Pharo vm and image are packaged together.
 You only need to start `launch.sh`/`launch.bat`.
 When closing the app always click `discard` or the app will break and you'll need to redownload.
